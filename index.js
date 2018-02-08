@@ -1,3 +1,3 @@
 function upperCaseCustomerName(customerName){
-  var customerName;
+  toUppercase.customerName;
 }
