@@ -18,4 +18,4 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = `smith`;
 }
 
-upperCaseCustomerName(`bob`);
+`My name is ${customerName}.`
