@@ -17,3 +17,5 @@ const leastFavoriteCustomer = `nancy`;
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = `smith`;
 }
+
+upperCaseCustomerName();
