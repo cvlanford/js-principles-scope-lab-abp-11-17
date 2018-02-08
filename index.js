@@ -1,1 +1,3 @@
-upperCaseCustomerName
+function upperCaseCustomerName(customerName){
+  var customerName;
+}
